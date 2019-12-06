@@ -1,0 +1,27 @@
+.svn
+.idea
+
+## 逐步添加项目文件
+############################
+##   Addons               ##
+##   App                  ##
+##   ThinkPHP             ##
+##   wwwroot              ##
+##   .gitignore           ##
+############################
+
+
+## 1.先添加 Addons 和 .gitignore
+
+## 2.添加 ThinkPHP, 去除下面的 ThinkPHP
+
+## 3.添加 App
+
+## 4.添加 wwwroot
+
+
+
+
+
+
+
